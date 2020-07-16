@@ -52,7 +52,7 @@
     "url-parse": ">=1.4.3",
     "fstream": ">=1.0.12",
     "tar": ">=2.2.2",
-    "lodash": ">=4.17.11",
+    "lodash": ">=4.17.19",
     "extend": ">=3.0.2"
   },
   "browserslist": [
